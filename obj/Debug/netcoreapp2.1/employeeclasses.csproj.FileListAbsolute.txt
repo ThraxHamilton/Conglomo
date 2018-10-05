@@ -1,0 +1,11 @@
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch7/employeeclasses/bin/Debug/netcoreapp2.1/employeeclasses.deps.json
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch7/employeeclasses/bin/Debug/netcoreapp2.1/employeeclasses.runtimeconfig.json
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch7/employeeclasses/bin/Debug/netcoreapp2.1/employeeclasses.runtimeconfig.dev.json
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch7/employeeclasses/bin/Debug/netcoreapp2.1/employeeclasses.dll
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch7/employeeclasses/bin/Debug/netcoreapp2.1/employeeclasses.pdb
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch7/employeeclasses/obj/Debug/netcoreapp2.1/employeeclasses.csprojAssemblyReference.cache
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch7/employeeclasses/obj/Debug/netcoreapp2.1/employeeclasses.csproj.CoreCompileInputs.cache
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch7/employeeclasses/obj/Debug/netcoreapp2.1/employeeclasses.AssemblyInfoInputs.cache
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch7/employeeclasses/obj/Debug/netcoreapp2.1/employeeclasses.AssemblyInfo.cs
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch7/employeeclasses/obj/Debug/netcoreapp2.1/employeeclasses.dll
+/Users/MikeG/workspace4class/practiceshit/c#/books/book1/ch7/employeeclasses/obj/Debug/netcoreapp2.1/employeeclasses.pdb
