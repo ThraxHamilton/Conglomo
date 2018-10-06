@@ -18,9 +18,9 @@ namespace classes {
             Name = CompanyName;
             CreatedOn = CompanyCreatedOn;
         }
-
+        // Method to list employees
         public void ListEmployees () {
-
+        //  Loop over each employee in the list and console write the info.
             foreach (Employees employee in employeeList) {
                 Console.WriteLine ($"{employee.FirstName} " + $"{ employee.LastName} works for" + $" {this.Name}, As" + $"{employee.EmployeeTitle} since " + $"{employee.StartedWorking}");
             }
@@ -59,10 +59,11 @@ namespace classes {
                 EmployeeTitle = "IT Security Officer",
                 StartedWorking = DateTime.Now
             };
+            // Add() function to place employees into empty employee list from above.
             Conglomo.employeeList.Add (Dominic);
             Conglomo.employeeList.Add (Bob);
             Conglomo.employeeList.Add (Earnest);
-
+            // Call method set in Company class
             Conglomo.ListEmployees();
         }
 
